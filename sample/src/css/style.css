@@ -1,0 +1,22 @@
+.title{
+    color: blue;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+}
+form{
+    display: block;
+    display: grid;
+    border: solid rgb(27, 120, 187);
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    padding: 50px;
+    border-radius: 30px;
+
+}
+button{
+    color: aqua;
+    background-color:white;
+}
